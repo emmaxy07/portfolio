@@ -443,8 +443,9 @@ pre {
     word-break: normal; }
 
 .pre-scrollable {
-  max-height: 340px;
-  overflow-y: scroll; }
+  /* max-height: 340px; */
+  overflow-y: scroll; 
+}
 
 .container {
   width: 100%;
